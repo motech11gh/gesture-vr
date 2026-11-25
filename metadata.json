@@ -1,0 +1,6 @@
+{
+  "name": "AeroHand XR",
+  "description": "Spatial hand-mouse OS with Phone VR stereo head-tracking, dual-camera hand and eye tracking, Wi-Fi Direct dual-phone link, and YouTube 360-degree theater.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
